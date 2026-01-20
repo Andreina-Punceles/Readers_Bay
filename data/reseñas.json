@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "libro_id": 1,
+        "usuario_id": 1,
+        "rating": 5,
+        "texto": ":D",
+        "fecha": "2025-12-04"
+    },
+    {
+        "id": 2,
+        "libro_id": 2,
+        "usuario_id": 1,
+        "rating": 5,
+        "texto": ":D",
+        "fecha": "2025-12-05"
+    },
+    {
+        "id": 3,
+        "libro_id": 1,
+        "usuario_id": 1,
+        "rating": 5,
+        "texto": "me gustó el libro",
+        "fecha": "2025-12-05"
+    }
+]

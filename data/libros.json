@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cien Años de Soledad",
+    "autor": "Gabriel García Márquez",
+    "anio": 1967,
+    "genero": "Realismo Mágico"
+  },
+  {
+    "id": 2,
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "anio": 1605,
+    "genero": "Novela"
+  },
+  {
+    "id": 3,
+    "titulo": "La Sombra del Viento",
+    "autor": "Carlos Ruiz Zafón",
+    "anio": 2001,
+    "genero": "Misterio"
+  },
+  {
+    "id": 4,
+    "titulo": "El Amor en los Tiempos del Cólera",
+    "autor": "Gabriel García Márquez",
+    "anio": 1985,
+    "genero": "Romance"
+  },
+  {
+    "id": 5,
+    "titulo": "Ficciones",
+    "autor": "Jorge Luis Borges",
+    "anio": 1944,
+    "genero": "Cuento"
+  },
+  {
+    "id": 6,
+    "titulo": "La Casa de los Espíritus",
+    "autor": "Isabel Allende",
+    "anio": 1982,
+    "genero": "Realismo Mágico"
+  },
+  {
+    "id": 7,
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "anio": 1963,
+    "genero": "Novela Experimental"
+  },
+  {
+    "id": 8,
+    "titulo": "El Aleph",
+    "autor": "Jorge Luis Borges",
+    "anio": 1949,
+    "genero": "Cuento"
+  },
+  {
+    "id": 9,
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "anio": 1955,
+    "genero": "Realismo Mágico"
+  },
+  {
+    "id": 10,
+    "titulo": "La Ciudad y los Perros",
+    "autor": "Mario Vargas Llosa",
+    "anio": 1963,
+    "genero": "Novela"
+  },
+  {
+        "id": 11,
+        "titulo": "El Tunel",
+        "autor": "Ernesto Sabato",
+        "anio": 1948,
+        "genero": "Novela Psicológica"
+  },
+  {
+        "id": 12,
+        "titulo": "Como Agua para Chocolate",
+        "autor": "Laura Esquivel",
+        "anio": 1989,
+        "genero": "Romance"
+  },
+    {
+        "id": 13,
+        "titulo": "Los Detectives Salvajes",
+        "autor": "Roberto Bolaño",
+        "anio": 1998,
+        "genero": "Novela"
+    },
+    {
+        "id": 14,
+        "titulo": "El Coronel No Tiene Quien le Escriba",
+        "autor": "Gabriel García Márquez",
+        "anio": 1961,
+        "genero": "Novela"
+    },
+    {
+        "id": 15,
+        "titulo": "La Fiesta del Chivo",
+        "autor": "Mario Vargas Llosa",
+        "anio": 2000,
+        "genero": "Novela Histórica"
+    },
+    {
+        "id": 16,
+        "titulo": "2666",
+        "autor": "Roberto Bolaño",
+        "anio": 2004,
+        "genero": "Novela"
+    },
+    {
+        "id": 17,
+        "titulo": "El Libro de los Abrazos",
+        "autor": "Eduardo Galeano",
+        "anio": 1989,
+        "genero": "Ensayo"
+    },
+    {
+        "id": 18,
+        "titulo": "La Invención de Morel",
+        "autor": "Adolfo Bioy Casares",
+        "anio": 1940,
+        "genero": "Ciencia Ficción"
+    },
+    {
+        "id": 19,
+        "titulo": "Aura",
+        "autor": "Carlos Fuentes",
+        "anio": 1962,
+        "genero": "Novela"
+    },
+    {
+        "id": 20,
+        "titulo": "El Jardín de los Cerezos",
+        "autor": "Anton Chéjov",
+        "anio": 1904,
+        "genero": "Teatro"
+    }
+
+]

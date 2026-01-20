@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "de_usuario_id": 1,
+        "a_usuario_id": 3,
+        "libro_id": 1,
+        "fecha": "2025-12-05",
+        "nota": ":D"
+    },
+    {
+        "id": 2,
+        "de_usuario_id": 1,
+        "a_usuario_id": 4,
+        "libro_id": 1,
+        "fecha": "2025-12-05",
+        "nota": "prueba"
+    },
+    {
+        "id": 3,
+        "de_usuario_id": 1,
+        "a_usuario_id": 3,
+        "libro_id": 1,
+        "fecha": "2025-12-05",
+        "nota": "iohdfhion"
+    },
+    {
+        "id": 4,
+        "de_usuario_id": 1,
+        "a_usuario_id": 4,
+        "libro_id": 1,
+        "fecha": "2025-12-05",
+        "nota": "Prueba"
+    },
+    {
+        "id": 5,
+        "de_usuario_id": 5,
+        "a_usuario_id": 4,
+        "libro_id": 11,
+        "fecha": "2025-12-05",
+        "nota": "Leetelo"
+    }
+]
