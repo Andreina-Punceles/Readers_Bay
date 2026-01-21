@@ -22,5 +22,13 @@
         "rating": 5,
         "texto": "me gustó el libro",
         "fecha": "2025-12-05"
+    },
+    {
+        "id": 4,
+        "libro_id": 59,
+        "usuario_id": 1,
+        "rating": 5,
+        "texto": "Buen libro",
+        "fecha": "2026-01-21"
     }
 ]
