@@ -44,5 +44,12 @@
         "rating": "5",
         "texto": "prueba FINAL FINAL",
         "fecha": "23/01/2026"
+    },
+    {
+        "id": 1769188665,
+        "libro_id": 1,
+        "rating": "5",
+        "texto": "me gusto mucho",
+        "fecha": "23/01/2026"
     }
 ]
