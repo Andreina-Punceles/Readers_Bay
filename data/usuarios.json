@@ -26,5 +26,15 @@
         "id": 5,
         "nombre": "Edu",
         "password": "1234567890"
+    },
+    {
+        "id": 1769184174,
+        "nombre": "Pepe",
+        "password": "231"
+    },
+    {
+        "id": 1769184730,
+        "nombre": "AndreADMIN",
+        "password": "12341234"
     }
 ]

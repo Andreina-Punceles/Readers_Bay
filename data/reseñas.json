@@ -30,5 +30,19 @@
         "rating": 5,
         "texto": "Buen libro",
         "fecha": "2026-01-21"
+    },
+    {
+        "id": 1769182195,
+        "libro_id": 1,
+        "rating": "5",
+        "texto": "prueba guardado json laptop andreina",
+        "fecha": "2024-05-20"
+    },
+    {
+        "id": 1769185067,
+        "libro_id": 1,
+        "rating": "5",
+        "texto": "prueba FINAL FINAL",
+        "fecha": "23/01/2026"
     }
 ]

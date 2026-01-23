@@ -1,6 +1,9 @@
 import json 
 import datetime 
 
+# Al inicio de tu main o interfaz
+with open("data/reseñas.json", "r", encoding="utf-8") as f:
+    reseñas = json.load(f)
 # --- 1. Funciones para Cargar y Guardar Datos ---
 # (Sin cambios)
 def cargar_datos(archivo):
